@@ -1,6 +1,6 @@
 ### Hi there, I'm Louis 👋
 
-[![Website](https://img.shields.io/website?label=louiskelly.uk&style=for-the-badge&url=https://www.louiskelly.uk)](https://www.louiskelly.uk/)
+[![Website](https://img.shields.io/website?label=louiskelly.uk&style=for-the-badge&url=https://louiskelly.uk)](https://louiskelly.uk/)
 
 ## A computer science enthusiast
 
